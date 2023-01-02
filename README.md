@@ -1,7 +1,7 @@
 # ScaleCalc
 A little tool I use while doing scale modeling in CAD applications. It is meant to stay ready to use atop of the current window, to perform quick calculations.
 
-![ScreenShot](https://raw.githubusercontent.com/waldmanns/ScaleCalc/screenshots/screen_capture.PNG?)
+![ScreenShot](https://raw.githubusercontent.com/waldmanns/ScaleCalc/screenshots/screen_capture.PNG)
 
 To use it just enter your values, a calculation is performed at every change/leave event of the fields.
 
